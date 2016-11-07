@@ -1,0 +1,24 @@
+{
+  "name": "RabbitMQ-Client",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js",
+    "test": "mocha"
+  },
+  "dependencies": {
+    "express": "3.2.6",
+    "ejs": "*",
+    "connect-mongo": "*",
+    "express-session":"*",
+    "mongodb":"*",
+    "passport":"*",
+    "passport-local": "*",
+    "crypto": "*",
+    "bcrypt-nodejs" : "*",
+    "connect-flash" : "*",
+    "request" : "*",
+    "mocha" : "*",
+    "winston":"*"
+   }
+}
