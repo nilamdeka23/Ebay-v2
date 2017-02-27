@@ -13,3 +13,15 @@ Simple Market Place Website(Ebay-clone) using MEAN Stack
 *	Front end uses HTML, CSS, Bootstrap and AndularJS for superior data binding and client side processing.
 *	User tracking using Winston logger.
 *	Database connection pooling.
+
+###Rundown on starting this app
+![Alt Text](https://github.com/nilamdeka23/Ebay-v2/blob/master/Gif/Ebay-2.gif)
+
+###Sample App flow
+![Alt Text](https://github.com/nilamdeka23/Ebay-v2/blob/master/Gif/Ebay-2_2.gif)
+
+![Alt Text](https://github.com/nilamdeka23/Ebay-v2/blob/master/Gif/Ebay-2_3.gif)
+
+![Alt Text](https://github.com/nilamdeka23/Ebay-v2/blob/master/Gif/Ebay-2_4.gif)
+
+![Alt Text](https://github.com/nilamdeka23/Ebay-v2/blob/master/Gif/Ebay-2_5.gif)
